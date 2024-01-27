@@ -39,7 +39,7 @@
          <version>1.7.6</version>
       </dependency>
       <dependency>
-         <groupId>com.mobiera</groupId>
+         <groupId>com.mobiera.libs</groupId>
          <artifactId>common-sim</artifactId>
          <version>1.0.21</version>
       </dependency>
