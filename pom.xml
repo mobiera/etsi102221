@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
    <modelVersion>4.0.0</modelVersion>
-   <groupId>com.mobiera</groupId>
+   <groupId>com.mobiera.libs</groupId>
    <artifactId>etsi102221</artifactId>
    <packaging>jar</packaging>
-   <version>1.0.3</version>
+   <version>1.0.4</version>
    <name>Etsi102221 Library</name>
    <description>Etsi102221 Library</description>
    <url>https://github.com/mobiera/etsi102221</url>
